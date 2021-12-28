@@ -1,4 +1,4 @@
 # HTML-CSS-JS
-# Includes
+## Includes
 ### HTML and CSS small projects
 ### More advanced websites
